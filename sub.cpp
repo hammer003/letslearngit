@@ -5,5 +5,6 @@ int main(){
 	cin>>x>>y;
 	int c=x-y;
 	cout<<"dif is "<<c<<endl;
+	
 	return 0;
 }
